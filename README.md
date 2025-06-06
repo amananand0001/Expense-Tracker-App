@@ -22,6 +22,32 @@ Here're some of the project's best features:
 *   Local Data Persistence: All expense data is saved locally on the user's device so it's available even after restarting the app.
 *   Native Date Picker: Uses the platform's native date picker for a seamless user experience when selecting an expense date.
 
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone or Download the Repository</p>
+
+```
+git clone https://github.com/amananand0001/Expense-Tracker-App.git
+```
+
+<p>2. Navigate to the Project Directory</p>
+
+```
+cd ExpenseTrackerApp
+```
+
+<p>3. Run the following command to install all the necessary project dependencies listed in package.json</p>
+
+```
+npm install
+```
+
+<p>4. Make sure your Android emulator is running or a physical device is connected. Then run the following command:</p>
+
+```
+npm run android
+```
+
   
   
 <h2>💻 Built with</h2>
