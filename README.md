@@ -59,5 +59,5 @@ Technologies used in the project:
 *   React Navigation (Stack Navigator)
 *   AsyncStorage for local data storage
 *   Expo Vector Icons for UI icons
-*   React Native Community DateTimePicker<h1 align="center" id="title">Expense Tracker App</h1>
+*   React Native Community DateTimePicker
 
